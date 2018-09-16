@@ -1,7 +1,5 @@
 import * as Three from 'three'
 
-import { Manager } from './manager'
-
 /**
  * Base class for Actors, Actors are the elements that run actions and manipulate elements in the scene. By default,
  * they have access to the scene and camera through accessor methods.
