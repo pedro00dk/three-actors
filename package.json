@@ -35,6 +35,6 @@
         "build": "rollup -c",
         "watch": "rollup -cw",
         "link": "sudo npm link && npm link three-actors",
-        "unlink": "sudo npm unlink && rm -rf three-actors"
+        "unlink": "sudo npm unlink && rm -rf ./node_modules/three-actors"
     }
 }
