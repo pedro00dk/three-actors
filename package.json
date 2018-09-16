@@ -21,6 +21,10 @@
   },
   "homepage": "https://github.com/pedro00dk/three-actors#readme",
   "devDependencies": {
+    "@types/three": "^0.92.21",
     "typescript": "^3.0.3"
+  },
+  "dependencies": {
+    "three": "^0.96.0"
   }
 }
