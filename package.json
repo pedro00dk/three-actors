@@ -1,0 +1,26 @@
+{
+  "name": "three-actors",
+  "version": "0.0.0",
+  "description": "Actor system for Three.js",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedro00dk/three-actors.git"
+  },
+  "keywords": [
+    "Three",
+    "Actor"
+  ],
+  "author": "Pedro Henrique <pedro00dk@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedro00dk/three-actors/issues"
+  },
+  "homepage": "https://github.com/pedro00dk/three-actors#readme",
+  "devDependencies": {
+    "typescript": "^3.0.3"
+  }
+}
